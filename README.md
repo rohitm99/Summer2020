@@ -1,4 +1,5 @@
 # Summer2020
+4_stokeslet: A simulation of sedimentation of 4 particles in a low reynold's fluid using a simple stokeslet function                                  
 All coding projects worked on Summer 2020          
 Password Manager: Simple randomized passowrd manager currently unencrypted with local storage          
 simulation.py: An elastic collision particle simulator     
